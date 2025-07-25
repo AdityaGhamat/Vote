@@ -8,10 +8,10 @@ A full-stack decentralized voting platform built with Solidity, React.js, Expres
 
 ## 📁 Project Structure
 
-├── contract # Smart contract written in Solidity
-├── backend # Node.js Express server for managing APIs, Cloudinary, etc.
-├── frontend # React frontend for user interaction
-├── screenshot.png # App UI preview
+├── contract
+├── backend
+├── frontend
+├── screenshot.png
 └── README.md
 
 markdown
@@ -53,8 +53,8 @@ Edit
 - **Solidity (0.8.13)** – Smart contract
 - **React.js** – Frontend UI
 - **Express.js** – Backend API
-- **Web3.js / Ethers.js** – Blockchain interaction
-- **Hardhat / Truffle** – (Assumed for deployment/testing)
+- **Ethers.js** – Blockchain interaction
+- **Truffle** –
 - **Cloudinary** – Media upload support
 - **Ethereum / Ganache / MetaMask** – Blockchain test environment
 
@@ -67,7 +67,7 @@ Edit
 - Node.js
 - MetaMask Extension
 - Ganache CLI or Hardhat
-- Cloudinary account (if needed)
+- Cloudinary account
 
 ### Installation
 
