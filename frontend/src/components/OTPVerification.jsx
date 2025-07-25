@@ -46,7 +46,7 @@ const OTPVerification = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Here you would typically make an API call to verify the OTP
+
     console.log("Verifying OTP:", otp.join(""));
   };
 
