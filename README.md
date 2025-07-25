@@ -14,10 +14,6 @@ A full-stack decentralized voting platform built with Solidity, React.js, Expres
 ├── screenshot.png
 └── README.md
 
-markdown
-Copy
-Edit
-
 ---
 
 ## ⚙️ Features
